@@ -1,0 +1,35 @@
+li {
+	display: inline-block;
+}
+
+.link1 {
+	color: blue;
+}
+
+.link1:hover {
+	color: lightgreen;
+}
+
+
+
+.link2 {
+	background-color: red;
+}
+
+.link2:hover {
+	background-color: lightgreen;
+}
+
+
+
+
+.link3 {
+	background-color: grey;
+}
+
+.link3:active {
+	padding: 0 5px;
+}
+
+
+
